@@ -34,7 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
+```
 module aaaa(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 
@@ -55,7 +55,7 @@ xor y6 (c6,a,b);
 xnor y7(c7,a,b);
 
 endmodule
-
+```
 Developed by: NAUSHEEN FATHIMA A
 
 RegisterNumber: 24900129
